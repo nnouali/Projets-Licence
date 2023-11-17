@@ -1,0 +1,14 @@
+(executable
+  (name polish)
+  (flags :standard -w -27-26-32-33 \ -short-paths)
+  (libraries
+    str
+    polish_types
+    polish_tools
+    polish_evaluator
+    polish_printer
+    polish_reader
+    polish_simplification
+    polish_analyse_statique
+  )
+)

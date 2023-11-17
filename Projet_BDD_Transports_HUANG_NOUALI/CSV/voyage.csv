@@ -1,0 +1,12 @@
+id_voyage,id_navire,volumecale,nbpassager,datedebut,datefin,depart,destination
+0,1,20,7,2016-06-22 19:10:25,2016-06-22 20:10:25,Jade Weser,Calais
+1,17,0,5,2012-09-12 09:10:25,2012-09-12 09:40:25,Calais,Hambourg
+2,3,900,350,1999-12-22 15:10:25,1999-12-23 14:10:25,Jade Weser,Marseilles
+3,16,400,25,2006-06-22 10:10:25,2006-06-22 20:10:25,Blue Port,Magadan
+4,33,450,175,2011-05-22 19:10:25,2011-05-22 20:10:25,Arkhangelsk,Marseilles
+5,53,250,18,2016-07-30 16:05:25,2016-07-31 10:30:25,Puerto Marina,Tanger Med
+6,41,150,60,2022-02-22 00:10:25,2022-02-22 02:10:25,Odessa,Marseilles
+7,26,250,18,2022-02-22 11:10:25,2022-02-22 15:10:25,Marseilles,Puerto Marina
+8,60,1000,0,2022-02-13 00:10:25,2022-03-13 00:10:25,Agadir,Shanghai
+9,12,1000,0,1980-02-22 00:10:25,1980-04-12 17:10:25,Shanghai,Marseilles
+10,47,150,60,2020-10-08 16:10:25,2020-10-08 16:50:25,Puerto Marina,Tanger Med

@@ -1,0 +1,43 @@
+nation1,nation2,typerelation
+Allemagne,Chine,allies commerciaux
+Allemagne,France,allies
+Allemagne,Russie,neutre
+Allemagne,Ukraine,neutre
+Allemagne,Espagne,allies
+Allemagne,Maroc,allies commerciaux
+Chine,Allemagne,allies commerciaux
+Chine,France,allies commerciaux
+Chine,Russie,allies
+Chine,Ukraine,neutre
+Chine,Espagne,neutre
+Chine,Maroc,allies commerciaux
+France,Allemagne,allies
+France,Chine,allies commerciaux
+France,Russie,neutre
+France,Ukraine,allies
+France,Espagne,allies
+France,Maroc,allies
+Russie,Allemagne,neutre
+Russie,Chine,allies
+Russie,France,neutre
+Russie,Ukraine,en guerre
+Russie,Espagne,neutre
+Russie,Maroc,neutre
+Ukraine,Allemagne,neutre
+Ukraine,Chine,neutre
+Ukraine,France,allies
+Ukraine,Russie,en guerre
+Ukraine,Espagne,neutre
+Ukraine,Maroc,neutre
+Espagne,Allemagne,allies
+Espagne,Chine,neutre
+Espagne,France,allies
+Espagne,Russie,neutre
+Espagne,Ukraine,neutre
+Espagne,Maroc,neutre
+Maroc,Allemagne,allies commerciaux
+Maroc,Chine,allies commerciaux
+Maroc,France,allies
+Maroc,Russie,neutre
+Maroc,Espagne,neutre
+Maroc,Ukraine,neutre

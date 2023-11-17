@@ -1,0 +1,14 @@
+id_produit,nom,conservationsec,id_caracteristique
+0,biscuit,TRUE,0
+1,riz,TRUE,1
+2,poissons,FALSE,2
+3,fraises,FALSE,3
+4,pates,TRUE,1
+5,chocolats,TRUE,4
+6,pomme,FALSE,5
+7,poivre,FALSE,5
+8,myrtille,FALSE,3
+9,cuivre,TRUE,6
+10,pétrole,TRUE,7
+11,myrtille_congele,TRUE,8
+12,fraise_congele,TRUE,8

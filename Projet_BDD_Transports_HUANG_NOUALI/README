@@ -1,0 +1,46 @@
+Groupe 28
+HUANG Yingqi 22010841
+NOUALI Noura 71806787
+
+*************************************************
+CONTENUE DES FICHIERS
+
+Dans le répertoire Groupe 28 vous trouverez :
+– la modélisation (la version initiale "modelInit.pdf" et la version approuvée par le/la chargé de TP "modelApprouve.pdf")
+
+-"createTable.sql", un script sql qui permet la création de toutes les tables de notre base de donnée
+
+– le répertoire CSV contenant les fichiers csv avec les données qui permettent d’alimenter les tables
+
+-"copy.sql" permet d'alimenter notre base de donnée à partir de des fichiers csv .
+
+- le répertoire REQ qui contient les fichiers .sql avec les requêtes. Chaque fichier de requêtes contient une seule requête avec, en commentaire, la description de celle-ci.
+
+*************************************************
+CONNEXION ET EXECUTION
+
+Se connecter au Serveur Postgresql et se placer dans le répertoire du Groupe28 avec la commande :
+        \cd Groupe28
+
+Exécutez dans cet ordre la commande :
+        \i createTable.sql     
+Ceci permet de créer toutes les tables de notre base de données.
+
+Exécutez ensuite :
+	\i copy.sql
+Ceci permet d'alimenter toutes les tables de notre base de données avec les fichiers csv du répertoire CSV.
+
+Déplacez vous ensuite dans le répertoire REQ afin d'exécuter les différentes avec la commande :
+        \cd REQ
+Pour exécuter les requêtes une à une entrez dans le terminale:
+        \i reqX.sql
+où X correspond au numéro de la requête.
+
+Sinon vous pouvez lancez le fichier reqAll.sql qui contient les différentes requêtes concaténées de cette manière:
+        \i reqAll.sql
+
+
+*************************************************
+
+
+

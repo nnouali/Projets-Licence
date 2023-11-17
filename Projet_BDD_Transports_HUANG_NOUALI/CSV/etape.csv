@@ -1,0 +1,20 @@
+numero,id_voyage,port_parent,port_dest,nvPassagers
+1,0,Jade Weser,Calais,0
+1,1,Calais,Hambourg,0
+1,2,Jade Weser,Hambourg,300
+2,2,Hambourg,Marseilles,0
+1,3,Blue Port,Shanghai,250
+2,3,Shanghai,Magadan,0
+1,4,Arkhangelsk,Marseilles,0
+1,5,Marseilles,Puerto Marina,18
+2,5,Puerto Marina,Tanger Med,0
+1,6,Odessa,Marseilles,0
+1,7,Marseilles,Puerto Marina,0
+1,8,Agadir,Marseilles,0
+2,8,Marseilles,Jade Weser,0
+3,8,Jade Weser,Shanghai,0
+1,9,Shanghai,Arkhangelsk,0
+2,9,Arkhangelsk,Hambourg,200
+3,9,Hambourg,Jade Weser,250
+4,9,Jade Weser,Marseilles,0
+1,10,Puerto Marina,Tanger Med,0

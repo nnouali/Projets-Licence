@@ -1,0 +1,3 @@
+(library
+  (name polish_reader)
+  (libraries polish_types polish_tools))

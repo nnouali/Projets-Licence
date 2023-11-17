@@ -1,0 +1,157 @@
+port1,port2,kilometre
+Hambourg,Jade Weser,127
+Hambourg,Calais,620
+Hambourg,Marseilles,1193
+Hambourg,Blue Port,7761
+Hambourg,Shanghai,8506
+Hambourg,Puerto Marina,2206
+Hambourg,Tanger Med,2310
+Hambourg,Agadir,3025
+Hambourg,Odessa,1048
+Hambourg,Primorsk,1342
+Hambourg,Magadan,6980
+Hambourg,Arkhangelsk,2084
+Jade Weser,Hambourg,127
+Jade Weser,Calais,328
+Jade Weser,Marseilles,1184
+Jade Weser,Blue Port,8034
+Jade Weser,Shanghai,8694
+Jade Weser,Puerto Marina,2155
+Jade Weser,Tanger Med,2254
+Jade Weser,Agadir,2988
+Jade Weser,Odessa,1780
+Jade Weser,Primorsk,1448
+Jade Weser,Magadan,6999
+Jade Weser,Arkhangelsk,2183
+Calais,Hambourg,620
+Calais,Jade Weser,328
+Calais,Marseilles,894
+Calais,Blue Port,8405
+Calais,Shanghai,9139
+Calais,Puerto Marina,1666
+Calais,Tanger Med,1783
+Calais,Agadir,2479
+Calais,Odessa,2178
+Calais,Primorsk,1940
+Calais,Magadan,7410
+Calais,Arkhangelsk,2700
+Marseilles,Hambourg,1193
+Marseilles,Jade Weser,1184
+Marseilles,Calais,894
+Marseilles,Blue Port,8655
+Marseilles,Shanghai,9532
+Marseilles,Puerto Marina,1111
+Marseilles,Tanger Med,1230
+Marseilles,Agadir,1952
+Marseilles,Odessa,2025
+Marseilles,Primorsk,2466
+Marseilles,Magadan,8224
+Marseilles,Arkhangelsk,5101
+Blue Port,Hambourg,7761
+Blue Port,Jade Weser,8034
+Blue Port,Calais,8405
+Blue Port,Marseilles,8655
+Blue Port,Shanghai,1443
+Blue Port,Puerto Marina,9734
+Blue Port,Tanger Med,9852
+Blue Port,Agadir,10526
+Blue Port,Odessa,6636
+Blue Port,Primorsk,6534
+Blue Port,Magadan,4719
+Blue Port,Arkhangelsk,5932
+Shanghai,Hambourg,8506
+Shanghai,Jade Weser,8694
+Shanghai,Calais,9139
+Shanghai,Marseilles,9532
+Shanghai,Blue Port,1443
+Shanghai,Puerto Marina,10617
+Shanghai,Tanger Med,10736
+Shanghai,Agadir,11443
+Shanghai,Odessa,7624
+Shanghai,Primorsk,7185
+Shanghai,Magadan,3799
+Shanghai,Arkhangelsk,6505
+Puerto Marina,Hambourg,2206
+Puerto Marina,Jade Weser,2155
+Puerto Marina,Calais,1666
+Puerto Marina,Marseilles,1111
+Puerto Marina,Blue Port,9734
+Puerto Marina,Shanghai,10617
+Puerto Marina,Tanger Med,89
+Puerto Marina,Agadir,808
+Puerto Marina,Odessa,3128
+Puerto Marina,Primorsk,3544
+Puerto Marina,Magadan,9080
+Puerto Marina,Arkhangelsk,4306
+Tanger Med,Hambourg,2310
+Tanger Med,Jade Weser,2254
+Tanger Med,Calais,1783
+Tanger Med,Marseilles,1230
+Tanger Med,Blue Port,9852
+Tanger Med,Shanghai,10736
+Tanger Med,Puerto Marina,89
+Tanger Med,Agadir,718
+Tanger Med,Odessa,3222
+Tanger Med,Primorsk,3624
+Tanger Med,Magadan,9180
+Tanger Med,Arkhangelsk,4433
+Agadir,Hambourg,3025
+Agadir,Jade Weser,2988
+Agadir,Calais,2479
+Agadir,Marseilles,1230
+Agadir,Blue Port,10526
+Agadir,Shanghai,11443
+Agadir,Puerto Marina,808
+Agadir,Tanger Med,718
+Agadir,Odessa,3872
+Agadir,Primorsk,4345
+Agadir,Magadan,9849
+Agadir,Arkhangelsk,5112
+Odessa,Hambourg,1048
+Odessa,Jade Weser,1780
+Odessa,Calais,2178
+Odessa,Marseilles,2025
+Odessa,Blue Port,6636
+Odessa,Shanghai,7624
+Odessa,Puerto Marina,3128
+Odessa,Tanger Med,3222
+Odessa,Agadir,3872
+Odessa,Primorsk,1549
+Odessa,Magadan,7043
+Odessa,Arkhangelsk,2106
+Primorsk,Hambourg,1342
+Primorsk,Jade Weser,1448
+Primorsk,Calais,1940
+Primorsk,Marseilles,2466
+Primorsk,Blue Port,6534
+Primorsk,Shanghai,7185
+Primorsk,Puerto Marina,3544
+Primorsk,Tanger Med,3624
+Primorsk,Agadir,4345
+Primorsk,Odessa,1549
+Primorsk,Magadan,5841
+Primorsk,Arkhangelsk,763
+Magadan,Hambourg,6980
+Magadan,Jade Weser,6999
+Magadan,Calais,1120
+Magadan,Marseilles,8224
+Magadan,Blue Port,4719
+Magadan,Shanghai,3799
+Magadan,Puerto Marina,9080
+Magadan,Tanger Med,9180
+Magadan,Agadir,9849
+Magadan,Odessa,7043
+Magadan,Primorsk,5841
+Magadan,Arkhangelsk,5030
+Arkhangelsk,Hambourg,2084
+Arkhangelsk,Jade Weser,2183
+Arkhangelsk,Calais,2700
+Arkhangelsk,Marseilles,5101
+Arkhangelsk,Blue Port,5932
+Arkhangelsk,Shanghai,6505
+Arkhangelsk,Puerto Marina,4306
+Arkhangelsk,Tanger Med,4433
+Arkhangelsk,Agadir,5112
+Arkhangelsk,Odessa,2106
+Arkhangelsk,Primorsk,763
+Arkhangelsk,Magadan,5030
